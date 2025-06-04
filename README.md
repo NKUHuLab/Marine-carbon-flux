@@ -1,4 +1,4 @@
-The repository contains the data and codes accompanying the manuscript "Decreases in South Pacific and South Atlantic sea-air CO2 fluxes caused by extreme precipitation".
+The repository contains the data and codes accompanying the manuscript "Decreases in South Pacific and South Atlantic sea-air CO<sub>2</sub> fluxes caused by extreme precipitation".
 
 (1) System requirements
 
@@ -21,17 +21,17 @@ Download the code and data, and save them all on your computer. Modify the folde
 
 For the code "XGB model construction.py", the expected output is a .xlsx file that records the performance of the models. The model can be saved as a .pkl file.
 
-For the code "SHAP analysis.py",  the expected output is a .xlsx file containing SHAP values for all the input variables.
+For the code "SHAP analysis.py", the expected output is a .xlsx file containing SHAP values for all the input variables.
 
-For the code "Univariate partial dependence analysis.py", the expected output is a .pdf file displaying the impact of  PRCPTOT on FCO2.
+For the code "Univariate partial dependence analysis.py", the expected output is a .pdf file displaying the impact of PRCPTOT on FCO<sub>2</sub>.
 
-For the code "Bivariate partial dependence analysis.py", the expected output is a .pdf file displaying the impact of ALK and SAL on FCO2.
+For the code "Bivariate partial dependence analysis.py", the expected output is a .pdf file displaying the impact of ALK and SAL on FCO<sub>2</sub>.
 
 For the code "Causal analysis.py", the expected output is a .xlsx file containing the causal inference results for each causal path.
 
-For the code "NSGA-II optimization algorithm.py", the expected output is a .xlsx file including the adjusted input to minimize FCO2 and the corresponding predicted FCO2.
+For the code "NSGA-II optimization algorithm.py", the expected output is a .xlsx file including the adjusted input to minimize FCO<sub>2</sub> and the corresponding predicted FCO<sub>2</sub>.
 
-For the code "Shock transmission analysis.py", the expected output is a .pdf file displaying the shock effects of PRCPTOT on ALK and the subsequent transmission-based influence of ALK on FCO2.
+For the code "Shock transmission analysis.py", the expected output is a .pdf file displaying the shock effects of PRCPTOT on ALK and the subsequent transmission-based influence of ALK on FCO<sub>2</sub>.
 
 For the code "Uncertainty analysis.py", the expected output is a .xlsx file containing the percentage of model uncertainty.
 
