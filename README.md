@@ -1,4 +1,4 @@
-This repository contains the data and code used for the analysis presented in the manuscript "Decreases in South Pacific and South Atlantic sea-air CO₂ fluxes caused by extreme precipitation".
+This repository contains the data and code used for the analysis presented in the manuscript "Decreases in South Pacific and South Atlantic sea-air CO₂ fluxes caused by extreme precipitation" published in *Nature Communications* ([DOI: 10.1038/s41467-026-69847-6](https://doi.org/10.1038/s41467-026-69847-6)).
 
 ■ System Requirements
 
